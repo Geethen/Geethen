@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on on completing my PhD at the University of the Witwatersrand. This research looks at using recent advances in remote sensing, cloud computing (Google Earth Engine) and Machine learning to imrpve the sucessful management of water hyacinth - The worlds worst invasive aquatic alien plant. I am also apart of a team looking to combine biodiversity measures with estimates of above-ground and below ground carbon.
+- 🔭 I’m currently working on completing my PhD at the University of the Witwatersrand, South Africa. This research looks at using recent advances in remote sensing, cloud computing (Google Earth Engine) and Machine learning to improve the chances of sucessful management of water hyacinth - The worlds worst invasive aquatic alien plant.
+- 🔭 I am also apart of a team looking to combine biodiversity measures with satellite-derived estimates of above-ground and below ground carbon.
 - 🌱 I’m currently building earth engine pipelines to make machine learning with GEE data and compute easier.
 
 <!--

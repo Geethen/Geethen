@@ -1,8 +1,9 @@
 ### Hi👋, I am Geethen Singh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geethen" alt="Geethen" /> </p>
 
-- 🔭 I’m currently working on completing my PhD at the University of the Witwatersrand, South Africa. This research looks at using recent advances in remote sensing, cloud computing (Google Earth Engine) and Machine learning to improve the chance of sucessfully managing water hyacinth - The worlds worst invasive aquatic alien plant.
-- 🔭 I have worked at a NGO (Natural State) were I focused on estimating tree canopy height, above ground biomass density,  and identifying field sites.
+- 🔭 I’m currently busy with a post-doc, this research looks into uncertainty estimation using conformal prediction and building an operational burnt area mapping system.
+- 🔭 I have recently completed my PhD at the University of the Witwatersrand, South Africa. This research looked at using recent advances in remote sensing, cloud computing (Google Earth Engine) and Machine learning to improve the chances of sucessfully managing water hyacinth - The worlds worst invasive aquatic alien plant.
+- 🔭 I have worked at a NGO (Natural State + Conservation alpha) were I focused on estimating tree canopy height, above ground biomass density,  and identifying field sites.
 - 🌱 I have started building a Python package that focuses on extracting data from Google Earth Engine easier and faster using the high volume endpoint and parralel processing.
 - 🤔 I am interested in applying machine learning to satellite data for addressing ecological challenges.
 - 📫 How to reach me: geethen.singh@gmail.com
